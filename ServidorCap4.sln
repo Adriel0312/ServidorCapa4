@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServidorCap4", "ServidorCap4\ServidorCap4.csproj", "{5FC43B85-E06A-4B66-8432-266A3B457062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FC43B85-E06A-4B66-8432-266A3B457062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC43B85-E06A-4B66-8432-266A3B457062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC43B85-E06A-4B66-8432-266A3B457062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC43B85-E06A-4B66-8432-266A3B457062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0D346B0-9C42-40F5-B785-55E3B3FB86D2}
+	EndGlobalSection
+EndGlobal
